@@ -1,6 +1,8 @@
 # Forms
-Wakanda Form Validation
 
+Client side form validation for Wakanda
+
+## Example
 ```javascript
 // init form
 var myForm = new Forms([
